@@ -1,0 +1,11 @@
+C:\Users\frany\OneDrive\Escritorio\Learn\Lesson18\ScrapeLibrary\bin\Debug\net9.0\ScrapeLibrary.deps.json
+C:\Users\frany\OneDrive\Escritorio\Learn\Lesson18\ScrapeLibrary\bin\Debug\net9.0\ScrapeLibrary.dll
+C:\Users\frany\OneDrive\Escritorio\Learn\Lesson18\ScrapeLibrary\bin\Debug\net9.0\ScrapeLibrary.pdb
+C:\Users\frany\OneDrive\Escritorio\Learn\Lesson18\ScrapeLibrary\obj\Debug\net9.0\ScrapeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frany\OneDrive\Escritorio\Learn\Lesson18\ScrapeLibrary\obj\Debug\net9.0\ScrapeLibrary.AssemblyInfoInputs.cache
+C:\Users\frany\OneDrive\Escritorio\Learn\Lesson18\ScrapeLibrary\obj\Debug\net9.0\ScrapeLibrary.AssemblyInfo.cs
+C:\Users\frany\OneDrive\Escritorio\Learn\Lesson18\ScrapeLibrary\obj\Debug\net9.0\ScrapeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\frany\OneDrive\Escritorio\Learn\Lesson18\ScrapeLibrary\obj\Debug\net9.0\ScrapeLibrary.dll
+C:\Users\frany\OneDrive\Escritorio\Learn\Lesson18\ScrapeLibrary\obj\Debug\net9.0\refint\ScrapeLibrary.dll
+C:\Users\frany\OneDrive\Escritorio\Learn\Lesson18\ScrapeLibrary\obj\Debug\net9.0\ScrapeLibrary.pdb
+C:\Users\frany\OneDrive\Escritorio\Learn\Lesson18\ScrapeLibrary\obj\Debug\net9.0\ref\ScrapeLibrary.dll
