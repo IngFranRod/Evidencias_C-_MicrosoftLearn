@@ -1,0 +1,11 @@
+C:\Users\frany\OneDrive\Escritorio\Learn\19-Namespaces\CodeLibrary\bin\Debug\net9.0\CodeLibrary.deps.json
+C:\Users\frany\OneDrive\Escritorio\Learn\19-Namespaces\CodeLibrary\bin\Debug\net9.0\CodeLibrary.dll
+C:\Users\frany\OneDrive\Escritorio\Learn\19-Namespaces\CodeLibrary\bin\Debug\net9.0\CodeLibrary.pdb
+C:\Users\frany\OneDrive\Escritorio\Learn\19-Namespaces\CodeLibrary\obj\Debug\net9.0\CodeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frany\OneDrive\Escritorio\Learn\19-Namespaces\CodeLibrary\obj\Debug\net9.0\CodeLibrary.AssemblyInfoInputs.cache
+C:\Users\frany\OneDrive\Escritorio\Learn\19-Namespaces\CodeLibrary\obj\Debug\net9.0\CodeLibrary.AssemblyInfo.cs
+C:\Users\frany\OneDrive\Escritorio\Learn\19-Namespaces\CodeLibrary\obj\Debug\net9.0\CodeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\frany\OneDrive\Escritorio\Learn\19-Namespaces\CodeLibrary\obj\Debug\net9.0\CodeLibrary.dll
+C:\Users\frany\OneDrive\Escritorio\Learn\19-Namespaces\CodeLibrary\obj\Debug\net9.0\refint\CodeLibrary.dll
+C:\Users\frany\OneDrive\Escritorio\Learn\19-Namespaces\CodeLibrary\obj\Debug\net9.0\CodeLibrary.pdb
+C:\Users\frany\OneDrive\Escritorio\Learn\19-Namespaces\CodeLibrary\obj\Debug\net9.0\ref\CodeLibrary.dll
